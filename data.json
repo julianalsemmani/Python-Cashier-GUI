@@ -1,0 +1,12 @@
+{
+    "seller": [
+        {
+            "firstname": "Julian",
+            "lastname": "Alsemmani",
+            "username": "admin",
+            "pin": "1234"
+        }
+    ],
+    "receipt": [
+    ]
+}
